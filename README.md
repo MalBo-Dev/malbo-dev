@@ -1,5 +1,5 @@
-<h1 align="center">Hi there <img src="hi.gif" width="30">, I'm Mohammad Irvani <br/><img align="right" src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicxlau" /></h1>
-<h3 align="center">برنامه نویس وب ( BackEnd ) , ربات تلگرام , Api نویسی و دارای 2 سال سابقه کار . کار با سیستم های Linux و زبان برنامه نویسی php , c# , python , javascript ولی درحال حاضر بیشتر در زمینه Framework Laravel کار میکنم</h3>
+<h1 align="center">Hi there , I'm Mohammad Irvani <br/><img align="right" src="https://komarev.com/ghpvc/?username=nicolauns" alt="nicxlau" /></h1>
+<h4 align="center">برنامه نویس وب ( BackEnd ) , ربات تلگرام , Api نویسی و دارای 2 سال سابقه کار . کار با سیستم های Linux و زبان برنامه نویسی php , c# , python , javascript ولی درحال حاضر بیشتر در زمینه Framework Laravel کار میکنم</h4>
 
 <p align="left">
   <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicxlau" /></a>
