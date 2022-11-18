@@ -25,3 +25,5 @@
 </p>
 <br/>
 <a href="https://github.com/jxroot"><img align="right" title="jxroot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxroot&layout=compact&theme=dracula"></a>
+
+<details align="center"><summary><b>ℹ️ About me</b></summary><br/>Working since 2016 exclusively with Back-end, developing custom solutions, building and maintaining APIs and integrations between applications, specialist in creating dynamic systems, enthusiast and contributor to the open-source community, lover of design patterns, financial management and the seventh art.<br/><br/>I like to write well-designed and efficient code, using current best practices for web development. I am self-taught and I am always looking for new knowledge.<br/><br/>I started studying web programming in 2013 and joining the area in 2016 as a full-time freelancer. Since then I have had the opportunity to work on different types of projects, accumulating experience from various sectors.<br/><br/>I'm currently working on the development of solutions made with PHP and Java Back-end, designed to make people's lives easier.</details>
