@@ -24,4 +24,4 @@
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/></a>
 </p>
 
-<a href="https://github.com/jxroot"><img title="jxroot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxroot&layout=compact&theme=dracula"></a>
+<a href="https://github.com/jxroot"><img align="right" title="jxroot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxroot&layout=compact&theme=dracula"></a>
