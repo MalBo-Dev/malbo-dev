@@ -15,13 +15,13 @@
 <a href="https://github.com/topics/php" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://github.com/topics/laravel" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://github.com/topics/python" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://github.com/topics/spring" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://github.com/topics/heroku" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="heroku" width="40" height="40"/></a>
+<a href="https://github.com/topics/csharp" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://github.com/topics/html5" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://github.com/topics/git" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/topics/javascript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://github.com/topics/vue" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="vue.js" width="40" height="40"/></a>
+<a href="https://github.com/topics/linux" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
 </p>
 <br/>
-<a href="https://github.com/jxroot"><img align="right" title="jxroot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxroot&layout=compact&theme=dracula"></a>
+<a href="https://github.com/malbo-dev"><img align="right" title="MalBo.Dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malbo-dev&layout=compact&theme=dracula"></a>
