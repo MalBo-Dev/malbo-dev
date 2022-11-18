@@ -16,11 +16,11 @@
 <a href="https://github.com/topics/laravel" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="35" height="35"/></a>
 <a href="https://github.com/topics/python" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a>
 <a href="https://github.com/topics/spring" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="spring" width="35" height="35"/></a>
-<a href="https://github.com/topics/heroku" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="35" height="35"/></a>
+<a href="https://github.com/topics/heroku" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="heroku" width="35" height="35"/></a>
 <a href="https://github.com/topics/git" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/></a>
 <a href="https://github.com/topics/javascript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></a>
-<a href="https://github.com/topics/vue" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="35" height="35"/></a>
+<a href="https://github.com/topics/bootstrap" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="bootstrap" width="35" height="35"/></a>
+<a href="https://github.com/topics/vue" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="vue.js" width="35" height="35"/></a>
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/></a>
 </p>
 <br/>
