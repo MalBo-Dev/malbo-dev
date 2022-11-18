@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="hi.gif" width="30">, I'm Mohammad Irvani <br/><img align="right" src="https://komarev.com/ghpvc/?username=malbo-dev" alt="nicxlau" /></h1>
 <h4 align="center">توسعه دهنده وب , ربات تلگرام , API نویس</h4>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicxlau" /></a>
   <a href="https://twitter.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nicxlau" /></a>
   <a href="https://instagram.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
