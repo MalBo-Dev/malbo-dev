@@ -2,9 +2,9 @@
 <h4 align="center">توسعه دهنده وب , ربات تلگرام , API نویس</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-e5170d?style=for-the-badge&logo=youtube&logoColor=white" alt="nicxlau" /></a>
+  <a href="https://www.youtube.com/channel/UCRXB3lWiZHPwfgcXMjfUzYA" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-e5170d?style=for-the-badge&logo=youtube&logoColor=white" alt="nicxlau" /></a>
   <a href="https://t.me/malbo_dev" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="nicxlau" /></a>
-  <a href="https://instagram.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-ff9d0b?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
+  <a href="https://instagram.com/malbo.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-ff9d0b?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
 </p>
 
 <a href="https://github.com/malbo-dev" target="_blank"><img align="left" src="thoughtful.svg" width="320"/></a>
