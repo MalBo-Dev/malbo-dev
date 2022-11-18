@@ -22,6 +22,7 @@
 <a href="https://github.com/topics/linux" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
+<a href="https://github.com/topics/jquery" target="blank"><img src="https://static.ipresta.ir/img/theme/ipresta-platinium-badge.png" alt="jquery" width="40" height="40"/></a>
 </p>
 <br/>
 <a href="https://github.com/malbo-dev"><img align="right" title="MalBo.Dev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malbo-dev&layout=compact&theme=dracula"></a>
