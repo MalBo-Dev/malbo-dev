@@ -23,5 +23,5 @@
 <a href="https://github.com/topics/vue" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="35" height="35"/></a>
 <a href="https://github.com/topics/jquery" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/></a>
 </p>
-
+<hr/>
 <a href="https://github.com/jxroot"><img align="right" title="jxroot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxroot&layout=compact&theme=dracula"></a>
