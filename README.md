@@ -7,7 +7,7 @@
   <a href="https://instagram.com/nicxlau" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nicxlau" /></a>
 </p>
 
-<a href="https://github.com/nicxlau" target="_blank"><img align="right" src="thoughtful.svg" width="320"/></a>
+<a href="https://github.com/malbo-dev" target="_blank"><img align="left" src="thoughtful.svg" width="320"/></a>
 
 - 🔭 I’m currently building the [Octha ecosystem](https://octha.com).
 
