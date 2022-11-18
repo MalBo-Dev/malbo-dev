@@ -10,8 +10,8 @@
 <a href="https://github.com/malbo-dev" target="_blank"><img align="left" src="thoughtful.svg" width="320"/></a>
 
   
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="right">مهارت ها</h3>
+<p align="right">
 <a href="https://github.com/topics/php" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35"/></a>
 <a href="https://github.com/topics/laravel" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="35" height="35"/></a>
 <a href="https://github.com/topics/java" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>
