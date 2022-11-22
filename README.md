@@ -21,7 +21,7 @@
 <a href="https://github.com/topics/javascript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a>
 <a href="https://github.com/topics/linux" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://github.com/topics/mysql" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://github.com/topics/jquery" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
+<a href="https://github.com/topics/lua" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" alt="lua" width="40" height="40"/></a>
 <a href="https://github.com/topics/prestashop" target="blank"><img src="https://static.ipresta.ir/img/theme/ipresta-platinium-badge.png" alt="prestashop" width="40" height="40"/></a>
 </p>
 <br/>
